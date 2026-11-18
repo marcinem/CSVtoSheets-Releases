@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CSVtoSheets for Windows</title>
+    <item>
+      <title>CSVtoSheets 1.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 08:58:05 +0000</pubDate>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <description><![CDATA[<p>Update an existing Google Sheet: re-open a CSV you converted before and CSVtoSheets updates that sheet in place, keeping your other tabs, charts and formulas. The app now also updates itself.</p>]]></description>
+      <enclosure url="https://github.com/marcinem/CSVtoSheets-Releases/releases/download/windows-1.2.0/CSVtoSheets-1.2.0-Windows-Native-Setup.exe" length="1020123" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="PfmDry9czH/gpnINTuXrfcWyp8hKO3lLVP06m0YIjB4GIMw1ietRoCrihfySkMR7xgMounwHYNhHUCCaFfSvDw=="/>
+    </item>
+  </channel>
+</rss>
