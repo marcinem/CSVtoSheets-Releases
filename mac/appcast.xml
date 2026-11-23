@@ -3,13 +3,13 @@
   <channel>
     <title>CSVtoSheets for Mac</title>
     <item>
-      <title>CSVtoSheets 1.2.0</title>
-      <pubDate>Wed, 18 Nov 2026 08:39:36 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>CSVtoSheets 1.2.1</title>
+      <pubDate>Mon, 23 Nov 2026 22:15:46 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Update an existing Google Sheet: re-open a CSV you converted before and CSVtoSheets updates that sheet in place, keeping your other tabs, charts and formulas. The app now also updates itself.</p>]]></description>
-      <enclosure url="https://github.com/marcinem/CSVtoSheets-Releases/releases/download/1.2.0/CSVtoSheets.dmg" length="2436094" type="application/x-apple-diskimage" sparkle:edSignature="dCaCYe8EMNZFuZ+HAvdiSkMxr/NKeKrRhyLUG6EeCfLnr41dl/q0BpfWFIHbkkGz3hnNK+UO3DGPq5LkkmAtCA=="/>
+      <description><![CDATA[<p>Setting CSVtoSheets as your default app is now one click, and it tells you if macOS did not accept it.</p>]]></description>
+      <enclosure url="https://github.com/marcinem/CSVtoSheets-Releases/releases/download/1.2.1/CSVtoSheets.dmg" length="2435023" type="application/x-apple-diskimage" sparkle:edSignature="dDjZydgxV7Eu0+HcnjRtOXd66wiONJL5InXiY9vs7OjBwKbj/RgdNCcC0GgQGytnhIvgnro/qK1Jvz8pz/tyCw=="/>
     </item>
   </channel>
 </rss>
