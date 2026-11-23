@@ -3,12 +3,12 @@
   <channel>
     <title>CSVtoSheets for Windows</title>
     <item>
-      <title>CSVtoSheets 1.2.0</title>
-      <pubDate>Wed, 18 Nov 2026 08:58:05 +0000</pubDate>
-      <sparkle:version>1.2.0</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <description><![CDATA[<p>Update an existing Google Sheet: re-open a CSV you converted before and CSVtoSheets updates that sheet in place, keeping your other tabs, charts and formulas. The app now also updates itself.</p>]]></description>
-      <enclosure url="https://github.com/marcinem/CSVtoSheets-Releases/releases/download/windows-1.2.0/CSVtoSheets-1.2.0-Windows-Native-Setup.exe" length="1020123" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="PfmDry9czH/gpnINTuXrfcWyp8hKO3lLVP06m0YIjB4GIMw1ietRoCrihfySkMR7xgMounwHYNhHUCCaFfSvDw=="/>
+      <title>CSVtoSheets 1.2.1</title>
+      <pubDate>Mon, 23 Nov 2026 22:11:50 +0000</pubDate>
+      <sparkle:version>1.2.1</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <description><![CDATA[<p>Adds a link to make CSVtoSheets the default app for CSV files.</p>]]></description>
+      <enclosure url="https://github.com/marcinem/CSVtoSheets-Releases/releases/download/windows-1.2.1/CSVtoSheets-1.2.1-Windows-Native-Setup.exe" length="1020634" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/S" sparkle:edSignature="FXOWpU/iKnEQcFMxWBM6OKUCgzn1nBQBKq4rceB9f4Nsu7HC45LfWFtE//WYc7gp6Kb/Fg8xFzmpd3jG6KpUDQ=="/>
     </item>
   </channel>
 </rss>
